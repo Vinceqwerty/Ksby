@@ -1,4 +1,4 @@
-# Sabay.ph — web MVP
+# Ksby.ph — web MVP
 
 Community carpooling matching platform. Next.js (App Router) + Supabase
 (Postgres/PostGIS, Auth, RLS). Deploys free on Vercel + Supabase's free tier.
